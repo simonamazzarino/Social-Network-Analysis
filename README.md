@@ -1,2 +1,2 @@
 # Social-Network-Analysis
-How much Americans like Joe Biden? A network analysis to estimate the outcome of midterm election - Social Network Analysis Project 2021 (University of Pisa)
+How mch Americans like Joe Biden? A netwrk analysis to estimate the outome of midterm election - Social Network Analysis Project 2021 (University of Pisa)
